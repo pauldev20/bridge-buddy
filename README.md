@@ -1,12 +1,23 @@
-## CREATED FOR ETHGLOBAL ISTANBUL
+<div align="center">
+	<img src="https://em-content.zobj.net/source/apple/419/shield_1f6e1-fe0f.png" align="center" width=180 heihgt=180/>
+  <h1>BridgeBuddy</h1>
+	<p align="center">
+    <a href="https://ethglobal.com/showcase/bridgebuddy-36te1">ETHGlobal Showcase</a>
+		<br/>
+		<a href="#about">About This Project</a>
+		·
+		<a href="#deployed-contracts">Contracts</a>
+  	</p>
+	<br/>
+</div>
 
-https://ethglobal.com/showcase/bridgebuddy-36te1
+<div align="center">
+  <img width="404" alt="image" src="https://github.com/patrick-hacks/BridgeBuddy/assets/72362902/8f1bd053-3da6-4d38-856b-b4625c2af139">
+</div>
 
-<img width="404" alt="image" src="https://github.com/patrick-hacks/BridgeBuddy/assets/72362902/8f1bd053-3da6-4d38-856b-b4625c2af139">
+<br/>
 
-# Project Setup Guide
-
-## General
+# About
 
 This project is an EVM-compatible Browser Wallet, designed to enhance user experience by abstracting the complexities associated with managing assets across various EVM-compatible chains. It consolidates assets from different chains in a single interface, enabling seamless asset management. The wallet uses account abstraction to bridge funds automatically as needed for transactions, providing a simplified, unified view of all assets.
 
